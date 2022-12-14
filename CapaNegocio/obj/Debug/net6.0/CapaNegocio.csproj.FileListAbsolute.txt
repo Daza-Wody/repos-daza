@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\DELL\source\repos\CapaNegocio\bin\Debug\net6.0\CapaNegocio.runtimeconfig.json
+C:\Users\DELL\source\repos\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\DELL\source\repos\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\DELL\source\repos\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\DELL\source\repos\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\DELL\source\repos\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\DELL\source\repos\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\DELL\source\repos\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\DELL\source\repos\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\DELL\source\repos\CapaNegocio\obj\Debug\net6.0\CapaNegocio.genruntimeconfig.cache
+C:\Users\DELL\source\repos\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
